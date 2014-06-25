@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/jzmiller1/spaceengineers/master/images/PanelTester.png =400x225)
+![alt tag](https://github.com/jzmiller1/spaceengineers/raw/master/images/SOLARPANEL/PanelTester.png =400x225)
 
 5 astronauts tall x 3 astronauts wide
 assume 6 foot astronaut
